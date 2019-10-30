@@ -1,0 +1,18 @@
+body{ 
+  background-color:#e1e4e6;
+  color: rgb(131, 131, 131);
+
+  font: normal 25px Helvetica;
+}
+
+a:link{
+  color: black;
+}
+
+a:visited{
+  color: purple;
+}
+
+a:hover{
+  font-size: 30px;
+}
